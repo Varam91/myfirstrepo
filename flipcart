@@ -1,0 +1,9 @@
+public class SumOfTwoNumbers {
+
+    public static void main(String[] args) {
+        // Create a Scanner object to get input from the console
+        Scanner inputScanner = new Scanner(System.in);
+
+        System.out.print("Enter the first number: ");
+        // Read the first integer entered by the user
+        int number1 = inputScanner.nextInt();
