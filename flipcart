@@ -5,5 +5,4 @@ public class SumOfTwoNumbers {
         Scanner inputScanner = new Scanner(System.in);
 
         System.out.print("Enter the first number: ");
-        // Read the first integer entered by the user
-        int number1 = inputScanner.nextInt();
+        
