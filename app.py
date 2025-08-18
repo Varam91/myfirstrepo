@@ -1,3 +1,3 @@
 Hi py
-we are learing py 
+we are learing python
 easy to learn
